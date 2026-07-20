@@ -1,0 +1,103 @@
+2026-07-20 14:20:27,938 - frames.dissertation_frame - INFO - ============================================================
+2026-07-20 14:20:27,938 - frames.dissertation_frame - INFO - DissertationFrame.__init__ STARTED
+2026-07-20 14:20:27,940 - frames.dissertation_frame - INFO - DissertationFrame.setup_ui STARTED
+2026-07-20 14:20:27,949 - frames.dissertation_frame - INFO - DissertationFrame.setup_ui COMPLETED
+2026-07-20 14:20:27,953 - frames.dissertation_frame - INFO - DissertationFrame.__init__ COMPLETED SUCCESSFULLY
+2026-07-20 14:41:42,538 - core.auth_manager - INFO - Guest logged in: guest_d5a73f0e
+2026-07-20 15:27:36,716 - frames.dissertation_frame - INFO - ============================================================
+2026-07-20 15:27:36,716 - frames.dissertation_frame - INFO - DissertationFrame.__init__ STARTED
+2026-07-20 15:27:36,719 - frames.dissertation_frame - INFO - DissertationFrame.setup_ui STARTED
+2026-07-20 15:27:36,721 - frames.dissertation_frame - INFO - DissertationFrame.setup_ui COMPLETED
+2026-07-20 15:27:36,724 - frames.dissertation_frame - INFO - DissertationFrame.__init__ COMPLETED SUCCESSFULLY
+2026-07-20 15:28:06,734 - frames.dissertation_frame - INFO - show_calendar called
+2026-07-20 15:28:18,115 - frames.dissertation_frame - INFO - Date selected: تیر ۱۴۰۶
+2026-07-20 15:28:23,486 - frames.dissertation_frame - INFO - calculate_spine called
+2026-07-20 15:28:23,486 - frames.dissertation_frame - WARNING - No PDF selected, showing input dialog
+2026-07-20 15:28:23,486 - frames.dissertation_frame - INFO - _show_spine_input_dialog called
+2026-07-20 15:28:25,941 - frames.dissertation_frame - INFO - Manual spine calculated: 13mm
+2026-07-20 15:28:29,305 - frames.dissertation_frame - INFO - File dropped: D:/main/Desktop/C765.pdf
+2026-07-20 15:28:29,306 - frames.dissertation_frame - INFO - File dropped: D:/main/Desktop/C765.pdf
+2026-07-20 15:28:30,606 - frames.dissertation_frame - INFO - select_save_folder called
+2026-07-20 15:28:34,385 - frames.dissertation_frame - INFO - Save folder selected: D:/main/Desktop/20260720_152830_output.bmp
+2026-07-20 15:28:37,062 - frames.dissertation_frame - INFO - ============================================================
+2026-07-20 15:28:37,062 - frames.dissertation_frame - INFO - start_making STARTED
+2026-07-20 15:28:37,062 - frames.dissertation_frame - INFO - All fields validated successfully
+2026-07-20 15:28:37,062 - frames.dissertation_frame - INFO - Selecting front page...
+2026-07-20 15:28:49,563 - frames.dissertation_frame - INFO - Front page selected: 0
+2026-07-20 15:28:49,563 - frames.dissertation_frame - INFO - Selecting back page...
+2026-07-20 15:28:52,938 - frames.dissertation_frame - INFO - Back page selected: 63
+2026-07-20 15:28:52,951 - frames.dissertation_frame - INFO - Starting cover creation worker...
+2026-07-20 15:28:52,951 - frames.dissertation_frame - INFO - CoverWorker.__init__ called
+2026-07-20 15:28:52,952 - frames.dissertation_frame - INFO - Cover worker started successfully
+2026-07-20 15:28:52,952 - frames.dissertation_frame - INFO - start_making ENDED
+2026-07-20 15:28:52,952 - frames.dissertation_frame - INFO - ============================================================
+2026-07-20 15:28:52,952 - frames.dissertation_frame - INFO - ============================================================
+2026-07-20 15:28:52,952 - frames.dissertation_frame - INFO - CoverWorker.run STARTED
+2026-07-20 15:28:52,953 - frames.dissertation_frame - INFO - Starting cover creation...
+2026-07-20 15:28:53,827 - func.covers_func - INFO - Saving cover to: D:/main/Desktop/20260720_152830_output.bmp
+2026-07-20 15:28:54,058 - func.covers_func - INFO - Used direct save (no compression): D:/main/Desktop/20260720_152830_output.bmp
+2026-07-20 15:28:54,271 - func.covers_func - INFO - Used direct save (no compression): D:\main\Desktop\Cover_builder_ver_5\CB_data/history_cover\20260720_1528_20260720_152830_output.bmp
+2026-07-20 15:28:55,870 - frames.dissertation_frame - INFO - Cover creation completed, success: True
+2026-07-20 15:28:55,870 - frames.dissertation_frame - INFO - Cover creation took 2917ms
+2026-07-20 15:28:55,871 - frames.dissertation_frame - INFO - CoverWorker.run ENDED
+2026-07-20 15:28:55,871 - frames.dissertation_frame - INFO - ============================================================
+2026-07-20 15:28:55,871 - frames.dissertation_frame - INFO - ============================================================
+2026-07-20 15:28:55,871 - frames.dissertation_frame - INFO - _on_cover_finished STARTED, success: True
+2026-07-20 15:28:55,872 - frames.dissertation_frame - INFO - Cover creation SUCCESSFUL
+2026-07-20 15:28:56,910 - func.history_manager - INFO - Copied to history: D:\main\Desktop\Cover_builder_ver_5\CB_data/history_cover\20260720_1528_20260720_152830_output.bmp
+2026-07-20 15:28:56,916 - frames.dissertation_frame - INFO - Showing feedback dialog with delay...
+2026-07-20 15:28:56,917 - frames.dissertation_frame - INFO - Feedback dialog scheduled
+2026-07-20 15:28:56,917 - frames.dissertation_frame - INFO - _on_cover_finished ENDED
+2026-07-20 15:28:56,917 - frames.dissertation_frame - INFO - ============================================================
+2026-07-20 15:28:57,417 - frames.dissertation_frame - INFO - ==================================================
+2026-07-20 15:28:57,417 - frames.dissertation_frame - INFO - _show_feedback_dialog_safe STARTED
+2026-07-20 15:28:57,418 - frames.dissertation_frame - INFO - Creating FeedbackDialog...
+2026-07-20 15:28:57,418 - frames.feedback_dialog - INFO - ==================================================
+2026-07-20 15:28:57,418 - frames.feedback_dialog - INFO - FeedbackDialog.__init__ STARTED
+2026-07-20 15:28:57,428 - frames.feedback_dialog - INFO - FeedbackDialog.__init__ COMPLETED
+2026-07-20 15:28:57,428 - frames.dissertation_frame - INFO - FeedbackDialog created successfully
+2026-07-20 15:28:57,428 - frames.dissertation_frame - INFO - Executing FeedbackDialog...
+2026-07-20 15:29:12,589 - frames.feedback_dialog - INFO - submit_feedback STARTED
+2026-07-20 15:29:13,600 - frames.feedback_dialog - INFO - submit_feedback ENDED
+2026-07-20 15:29:13,601 - frames.dissertation_frame - INFO - FeedbackDialog exec completed
+2026-07-20 15:29:13,601 - frames.dissertation_frame - INFO - _show_feedback_dialog_safe ENDED
+2026-07-20 15:29:13,601 - frames.dissertation_frame - INFO - ==================================================
+2026-07-20 15:29:21,982 - frames.dissertation_frame - INFO - ============================================================
+2026-07-20 15:29:21,982 - frames.dissertation_frame - INFO - start_making STARTED
+2026-07-20 15:29:21,982 - frames.dissertation_frame - INFO - All fields validated successfully
+2026-07-20 15:29:21,982 - frames.dissertation_frame - INFO - Selecting front page...
+2026-07-20 15:29:24,386 - frames.dissertation_frame - INFO - Front page selected: 0
+2026-07-20 15:29:24,387 - frames.dissertation_frame - INFO - Starting cover creation worker...
+2026-07-20 15:29:24,387 - frames.dissertation_frame - INFO - CoverWorker.__init__ called
+2026-07-20 15:29:24,388 - frames.dissertation_frame - INFO - Cover worker started successfully
+2026-07-20 15:29:24,388 - frames.dissertation_frame - INFO - start_making ENDED
+2026-07-20 15:29:24,388 - frames.dissertation_frame - INFO - ============================================================
+2026-07-20 15:29:24,389 - frames.dissertation_frame - INFO - ============================================================
+2026-07-20 15:29:24,390 - frames.dissertation_frame - INFO - CoverWorker.run STARTED
+2026-07-20 15:29:24,390 - frames.dissertation_frame - INFO - Starting cover creation...
+2026-07-20 15:29:24,891 - func.covers_func - INFO - Saving cover to: D:/main/Desktop/20260720_152830_output.bmp
+2026-07-20 15:29:25,004 - func.covers_func - INFO - Used direct save (no compression): D:/main/Desktop/20260720_152830_output.bmp
+2026-07-20 15:29:25,129 - func.covers_func - INFO - Used direct save (no compression): D:\main\Desktop\Cover_builder_ver_5\CB_data/history_cover\20260720_1529_20260720_152830_output.bmp
+2026-07-20 15:29:26,678 - frames.dissertation_frame - INFO - Cover creation completed, success: True
+2026-07-20 15:29:26,678 - frames.dissertation_frame - INFO - Cover creation took 2288ms
+2026-07-20 15:29:26,679 - frames.dissertation_frame - INFO - CoverWorker.run ENDED
+2026-07-20 15:29:26,679 - frames.dissertation_frame - INFO - ============================================================
+2026-07-20 15:29:26,684 - frames.dissertation_frame - INFO - ============================================================
+2026-07-20 15:29:26,684 - frames.dissertation_frame - INFO - _on_cover_finished STARTED, success: True
+2026-07-20 15:29:26,684 - frames.dissertation_frame - INFO - Cover creation SUCCESSFUL
+2026-07-20 15:29:29,189 - func.history_manager - INFO - Copied to history: D:\main\Desktop\Cover_builder_ver_5\CB_data/history_cover\20260720_1529_20260720_152830_output.bmp
+2026-07-20 15:29:29,195 - frames.dissertation_frame - INFO - Showing feedback dialog with delay...
+2026-07-20 15:29:29,196 - frames.dissertation_frame - INFO - Feedback dialog scheduled
+2026-07-20 15:29:29,196 - frames.dissertation_frame - INFO - _on_cover_finished ENDED
+2026-07-20 15:29:29,196 - frames.dissertation_frame - INFO - ============================================================
+2026-07-20 15:29:29,695 - frames.dissertation_frame - INFO - ==================================================
+2026-07-20 15:29:29,696 - frames.dissertation_frame - INFO - _show_feedback_dialog_safe STARTED
+2026-07-20 15:29:29,696 - frames.dissertation_frame - INFO - Creating FeedbackDialog...
+2026-07-20 15:29:29,696 - frames.feedback_dialog - INFO - ==================================================
+2026-07-20 15:29:29,697 - frames.feedback_dialog - INFO - FeedbackDialog.__init__ STARTED
+2026-07-20 15:29:29,705 - frames.feedback_dialog - INFO - FeedbackDialog.__init__ COMPLETED
+2026-07-20 15:29:29,705 - frames.dissertation_frame - INFO - FeedbackDialog created successfully
+2026-07-20 15:29:29,705 - frames.dissertation_frame - INFO - Executing FeedbackDialog...
+2026-07-20 15:29:31,074 - frames.dissertation_frame - INFO - FeedbackDialog exec completed
+2026-07-20 15:29:31,074 - frames.dissertation_frame - INFO - _show_feedback_dialog_safe ENDED
+2026-07-20 15:29:31,074 - frames.dissertation_frame - INFO - ==================================================
