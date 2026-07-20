@@ -26,6 +26,7 @@ logger = logging.getLogger(__name__)
 
 def main():
     """نقطه ورود اصلی برنامه"""
+    
     try:
         ensure_directories() # اطمینان از وجود مسیر ها
     except Exception as e:
